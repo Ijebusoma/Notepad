@@ -41,7 +41,7 @@ links:
   - title: Categories
     url: /categories
   - title: About
-    url: /hossain-mohd-faysal
+    url: /ijebusoma
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -71,7 +71,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'http://ijebusoma.github.io/'
-  relativeLinks: 'http://ijebusoma.github.io/jsonp'
+  relativeLinks: 'http://ijebusoma.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
