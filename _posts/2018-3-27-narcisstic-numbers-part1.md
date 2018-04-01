@@ -6,4 +6,6 @@ P.S: They are also referred to as Armstrong numbers. Like 💪🏽 (Just kidding
 
 So, for example:
 
-
+```js
+console.log("stuff bla bla")
+```
